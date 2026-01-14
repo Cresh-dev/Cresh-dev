@@ -1,16 +1,24 @@
-## Hi there 👋
+# Alessio Crescenzio
 
-<!--
-**Cresh-dev/Cresh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ciao, sono Alessio.
 
-Here are some ideas to get you started:
+Attualmente sono uno studente magistrale in **Informatica** (curriculum **Cybersecurity and Cloud**) presso il [Politecnico di Bari](https://www.poliba.it/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sono fortemente appassionato di **Reti di Calcolatori** e **Sistemi Operativi**, con un interesse particolare per la sicurezza delle infrastrutture e il funzionamento a basso livello dei sistemi.
+
+Mettiti in contatto con me:
+
+- preferibilmente via email a [alessiocrescenzio100@gmail.com](mailto:alessiocrescenzio100@gmail.com)
+- su LinkedIn [in/alessio-crescenzio](https://www.linkedin.com/in/alessio-crescenzio/)
+
+---
+
+## 🔭 Progetti e Ricerca
+
+Qui sotto puoi trovare alcuni dei progetti/appunti su cui sto lavorando o che ho sviluppato durante il mio percorso accademico:
+
+### [Appunti di Control-Of-Network-Systems](https://cresh-dev.github.io/Control-Of-Network-Systems/)
+
+Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Saverio Mascolo.
+
+- [repo](https://github.com/Cresh-dev/Control-Of-Network-Systems): repository degli appunti.
