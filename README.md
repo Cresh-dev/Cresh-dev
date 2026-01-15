@@ -13,7 +13,7 @@ Mettiti in contatto con me:
 
 ---
 
-## 🔭 Progetti e Ricerca
+## 🔭 Appunti e Progetti
 
 Qui sotto puoi trovare alcuni dei progetti/appunti su cui sto lavorando o che ho sviluppato durante il mio percorso accademico:
 
@@ -22,3 +22,9 @@ Qui sotto puoi trovare alcuni dei progetti/appunti su cui sto lavorando o che ho
 Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Saverio Mascolo.
 
 - [repo](https://github.com/Cresh-dev/Control-Of-Network-Systems): repository degli appunti.
+
+### [Appunti di Cryptography](https://cresh-dev.github.io/Cryptography/)
+
+Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Francesco Pavese.
+
+- [repo](https://github.com/Cresh-dev/Cryptography): repository degli appunti.
