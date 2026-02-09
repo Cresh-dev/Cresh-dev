@@ -28,3 +28,9 @@ Questa repository ospita i file sorgente degli appunti universitari, elaborati e
 Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Francesco Pavese.
 
 - [repo](https://github.com/Cresh-dev/Cryptography): repository degli appunti.
+
+### [Appunti di Network-Security](https://Cresh-dev.github.io/Network-Security/)
+
+Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Giuseppe Piro.
+
+- [repo](https://github.com/Cresh-dev/Network-Security): repository degli appunti.
