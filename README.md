@@ -13,7 +13,7 @@ Mettiti in contatto con me:
 
 ---
 
-## 🔭 Appunti e Progetti
+## 🔭 Appunti e Progetti Universitari
 
 Qui sotto puoi trovare alcuni dei progetti/appunti su cui sto lavorando o che ho sviluppato durante il mio percorso accademico:
 
@@ -34,3 +34,15 @@ Questa repository ospita i file sorgente degli appunti universitari, elaborati e
 Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Giuseppe Piro.
 
 - [repo](https://github.com/Cresh-dev/Network-Security): repository degli appunti.
+
+### [Appunti di Ethical-Hacking-Laboratory](https://cresh-dev.github.io/Ethical-hacking-laboratory/)
+
+Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Marco Olivieri.
+
+- [repo](https://github.com/Cresh-dev/Ethical-hacking-laboratory): repository degli appunti.
+
+### [Appunti di Secure-Programming-Laboratory](https://cresh-dev.github.io/Secure-Programming-Laboratory/)
+
+Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Giuseppe Loseto.
+
+- [repo](https://github.com/Cresh-dev/Secure-Programming-Laboratory): repository degli appunti.
