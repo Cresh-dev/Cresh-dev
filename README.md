@@ -1,48 +1,51 @@
-# Alessio Crescenzio
+# Ciao, sono Alessio Crescenzio 👋
 
-Ciao, sono Alessio.
+**Ingegnere informatico** che si occupa di **cloud strategy e architecture**.
 
-Attualmente sono uno studente magistrale in **Informatica** (curriculum **Cybersecurity and Cloud**) presso il [Politecnico di Bari](https://www.poliba.it/).
+Il mio percorso accademico: laurea magistrale in **Informatica**, curriculum **Cybersecurity and Cloud**, al [Politecnico di Bari](https://www.poliba.it/).
 
-Sono fortemente appassionato di **Reti di Calcolatori** e **Sistemi Operativi**, con un interesse particolare per la sicurezza delle infrastrutture e il funzionamento a basso livello dei sistemi.
+Mi appassionano le **reti di calcolatori** e i **sistemi operativi**, in particolare la sicurezza delle infrastrutture e il funzionamento a basso livello dei sistemi: dal kernel Linux fino all'orchestrazione dei container nel cloud.
 
-Mettiti in contatto con me:
-
-- preferibilmente via email a [alessiocrescenzio100@gmail.com](mailto:alessiocrescenzio100@gmail.com)
-- su LinkedIn [in/alessio-crescenzio](https://www.linkedin.com/in/alessio-crescenzio/)
+<p>
+  <a href="mailto:alessiocrescenzio100@gmail.com"><img src="https://img.shields.io/badge/Email-alessiocrescenzio100%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/alessio-crescenzio/"><img src="https://img.shields.io/badge/LinkedIn-alessio--crescenzio-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-## 🔭 Appunti e Progetti Universitari
+## 🛠️ Tecnologie
 
-Qui sotto puoi trovare alcuni dei progetti/appunti su cui sto lavorando o che ho sviluppato durante il mio percorso accademico:
+**Cloud**
 
-### [Appunti di Control-Of-Network-Systems](https://cresh-dev.github.io/Control-Of-Network-Systems/)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Saverio Mascolo.
+**DevOps e infrastruttura**
 
-- [repo](https://github.com/Cresh-dev/Control-Of-Network-Systems): repository degli appunti.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### [Appunti di Cryptography](https://cresh-dev.github.io/Cryptography/)
+**Sistemi e sicurezza**
 
-Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Francesco Pavese.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-- [repo](https://github.com/Cresh-dev/Cryptography): repository degli appunti.
+---
 
-### [Appunti di Network-Security](https://Cresh-dev.github.io/Network-Security/)
+## 📚 Appunti universitari
 
-Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Giuseppe Piro.
+Appunti dei corsi della magistrale, scritti seguendo le lezioni e pubblicati come siti consultabili. Ogni voce ha il sito da leggere e la repository con i sorgenti.
 
-- [repo](https://github.com/Cresh-dev/Network-Security): repository degli appunti.
+| Corso | Docente | Sito | Sorgenti |
+|---|---|---|---|
+| **Control of Network Systems** | Prof. Saverio Mascolo | [Leggi](https://cresh-dev.github.io/Control-Of-Network-Systems/) | [Repo](https://github.com/Cresh-dev/Control-Of-Network-Systems) |
+| **Cryptography** | Prof. Francesco Pavese | [Leggi](https://cresh-dev.github.io/Cryptography/) | [Repo](https://github.com/Cresh-dev/Cryptography) |
+| **Network Security** | Prof. Giuseppe Piro | [Leggi](https://cresh-dev.github.io/Network-Security/) | [Repo](https://github.com/Cresh-dev/Network-Security) |
+| **Ethical Hacking Laboratory** | Prof. Marco Olivieri | [Leggi](https://cresh-dev.github.io/Ethical-hacking-laboratory/) | [Repo](https://github.com/Cresh-dev/Ethical-hacking-laboratory) |
+| **Secure Programming Laboratory** | Prof. Giuseppe Loseto | [Leggi](https://cresh-dev.github.io/Secure-Programming-Laboratory/) | [Repo](https://github.com/Cresh-dev/Secure-Programming-Laboratory) |
 
-### [Appunti di Ethical-Hacking-Laboratory](https://cresh-dev.github.io/Ethical-hacking-laboratory/)
-
-Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Marco Olivieri.
-
-- [repo](https://github.com/Cresh-dev/Ethical-hacking-laboratory): repository degli appunti.
-
-### [Appunti di Secure-Programming-Laboratory](https://cresh-dev.github.io/Secure-Programming-Laboratory/)
-
-Questa repository ospita i file sorgente degli appunti universitari, elaborati e redatti seguendo le lezioni del Prof. Giuseppe Loseto.
-
-- [repo](https://github.com/Cresh-dev/Secure-Programming-Laboratory): repository degli appunti.
+Se trovi un errore negli appunti, apri pure una issue nella repository del corso. ⭐ Se ti sono stati utili, una stella fa sempre piacere.
